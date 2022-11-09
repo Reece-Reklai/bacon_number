@@ -1,0 +1,32 @@
+AddVertex Cary_Grant
+AddVertex Denzel_Washington
+Visualize
+AddActor Billy_Bob_Thornton
+AddActor Adam_Sandler_(I)
+AddActor Bill_Murray_(I)
+AddActor Kevin_Bacon_(I)
+Visualize
+setVertexColor Billy_Bob_Thornton red
+setVertexColor Adam_Sandler_(I) yellow
+setVertexColor Bill_Murray_(I) yellow
+setVertexColor Kevin_Bacon_(I) green
+setVertexColor Going_Overboard_(1989) yellow
+setEdgeColor Billy_Bob_Thornton Going_Overboard_(1989) yellow
+setEdgeColor White_Chicks SAW yellow
+setEdgeColor Adam_Sandler_(I) Going_Overboard_(1989) yellow
+setVertexColor Saturday_Night_Live:_Game_Show_Parodies_(1998) yellow
+setEdgeColor Adam_Sandler_(I) Saturday_Night_Live:_Game_Show_Parodies_(1998) yellow
+setEdgeColor Bill_Murray_(I) Saturday_Night_Live:_Game_Show_Parodies_(1998) yellow
+setVertexColor Saturday_Night_Live_Christmas_(1999) yellow
+setEdgeColor Adam_Sandler_(I) Saturday_Night_Live_Christmas_(1999) yellow
+setEdgeColor Bill_Murray_(I) Saturday_Night_Live_Christmas_(1999) yellow
+setVertexColor Wild_Things_(1998) yellow
+setEdgeColor Bill_Murray_(I) Wild_Things_(1998) yellow
+setEdgeColor Kevin_Bacon_(I) Wild_Things_(1998) yellow
+setVertexColor She's_Having_a_Baby_(1988) yellow
+setEdgeColor Bill_Murray_(I) She's_Having_a_Baby_(1988) yellow
+setEdgeColor Kevin_Bacon_(I) She's_Having_a_Baby_(1988) yellow
+Visualize
+AddAll
+Visualize
+Quit

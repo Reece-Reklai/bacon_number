@@ -1,4 +1,4 @@
-# CPTR 242: Project -- Graphs
+# Bacon Number
 
 ## Problem Overview
 
